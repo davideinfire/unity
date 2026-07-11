@@ -1,6 +1,6 @@
 # journal-app
 
 ## Overview
-Daily journal
+Daily journal todo
 
 
